@@ -33,7 +33,7 @@ nbconvert==4.2.0
 nbformat==4.2.0
 networkx==1.11
 notebook==4.3.1
-numpy==1.12.1
+numpy==1.21.0
 packaging==16.8
 pandas==0.19.2
 patsy==0.4.1
